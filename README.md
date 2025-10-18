@@ -1,4 +1,4 @@
-# 📘 Tugas Pertemuan 6 — Pembuatan Laporan Data Menggunakan JasperReport
+# Pembuatan Laporan Data Menggunakan JasperReport
 
 Proyek ini merupakan implementasi pembuatan laporan data menggunakan **JasperReport** pada aplikasi **Java JDBC**.  
 Aplikasi dikembangkan di **NetBeans IDE** dan terkoneksi ke **PostgreSQL** dengan desain laporan melalui **JasperSoft Studio**.
